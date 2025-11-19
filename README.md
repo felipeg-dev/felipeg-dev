@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou o Felipe Gomes</h1>
+<h1 align="center">👋 Olá, Bem Vindo ao meu mundo!</h1>
 
 <p align="center">
   <strong>Desenvolvedor Full Stack (em formação)</strong><br>
@@ -47,8 +47,6 @@
 
 ## 📌 Projetos em Destaque
 
-Aqui ficarão seus melhores projetos conforme você for construindo.  
-Por enquanto, deixo modelos que você pode substituir:
 
 ### 🔹 **API de Autenticação com Node.js**
 Repositório: _em breve_
