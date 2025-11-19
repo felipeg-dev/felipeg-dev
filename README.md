@@ -71,7 +71,7 @@ Repositório: _em breve_
 ## 🌎 Onde me encontrar
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/SEU-LINK-AQUI" target="_blank">
+  <a href="https://www.linkedin.com/in/SEU-LINK-AQUI](https://www.linkedin.com/in/felipe-gomes-6b6a068a/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
