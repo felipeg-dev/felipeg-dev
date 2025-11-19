@@ -22,6 +22,8 @@
 ### **Linguagens**
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
+![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=mysql)
+
 
 ### **Front-end**
 ![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
@@ -71,8 +73,11 @@ Repositório: _em breve_
 ## 🌎 Onde me encontrar
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/SEU-LINK-AQUI](https://www.linkedin.com/in/felipe-gomes-6b6a068a/" target="_blank">
+  <a href="https://www.linkedin.com/in/felipe-gomes-6b6a068a" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://instagram.com/felipogomes" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram"/>
   </a>
 </p>
 
